@@ -95,7 +95,7 @@ function startGame() {
 }
 
 function resetGame() {
-  time_left = 60;
+  time_left = 600;
   time_passed = 0;
   errors = 0;
   total_errors = 0;
