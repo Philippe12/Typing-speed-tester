@@ -10,7 +10,7 @@ let wpm_group = document.querySelector(".wpm");
 let error_group = document.querySelector(".errors");
 let accuracy_group = document.querySelector(".accuracy");
 
-let time_left = 60;
+let time_left = 600;
 let time_passed = 0;
 let total_errors = 0;
 let errors = 0;
